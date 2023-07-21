@@ -1,5 +1,5 @@
 {
-  "name": "guia_hoteles",
+  "name": "hoteles_2",
   "version": "1.0.0",
   "description": "nuestro primer proyecto de NodeJS",
   "main": "index.html",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoDelBer/guia_hoteles.git"
+    "url": "git+https://github.com/BrunoDelBer/hoteles_2.git"
   },
   "author": "Bruno Omar DelBer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BrunoDelBer/guia_hoteles/issues"
+    "url": "https://github.com/BrunoDelBer/hoteles_2/issues"
   },
-  "homepage": "https://github.com/BrunoDelBer/guia_hoteles#readme",
+  "homepage": "",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
