@@ -1,0 +1,39 @@
+.jumbotron{
+    background-color: red;
+    color: chartreuse;
+    margin: 0px 0px 10px 0px;
+    padding: 5px 5px 10px 5px;
+    border-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+.fila{
+    margin: 10px 0px 50px 0px;
+    padding: 10px 10px 10px 10px;
+    border-bottom-color: black;
+    
+}
+.info{
+    margin: 0 10px 0 10px;
+}
+
+footer{
+    padding: 10px 10px 0 10px;
+    background-color: aquamarine;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.verdura{
+    flex: 1 150px;
+    padding: 2px 5px 2px 5px;
+}
+
+.boton_compra{
+    background-color: green;
+    color: aliceblue;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
