@@ -1,7 +1,7 @@
 .jumbotron{
     background-color: red;
     color: chartreuse;
-    margin: 0px 0px 10px 0px;
+    margin: 50px 0px 10px 0px;
     padding: 50px 5px 10px 5px;
     border-color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -37,3 +37,4 @@ footer{
     font-family: 'Times New Roman', Times, serif;
     border-radius: 10px;
 }
+
