@@ -1,19 +1,30 @@
 .jumbotron{
-    background-color: red;
-    color: chartreuse;
+    background-image: url("imagenes/verduras.jpeg");
+    color: white;
     margin: 50px 0px 10px 0px;
-    padding: 50px 5px 10px 5px;
+    padding: 50px 0px 25px 0px;
     border-color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
 }
 
+#bread{
+    margin: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
+}
+
 .fila{
-    margin: 10px 0px 50px 0px;
+    margin: 20px 0px 50px 0px;
+    border: 20px 0px 25px 0px;
     padding: 10px 10px 10px 10px;
     border-bottom-color: black;
     
 }
+.cartas{
+    margin: 50px 0px 30px 0px;
+    border: 25px 0px 10px 0px;
+}
+
 .info{
     margin: 0 10px 0 10px;
 }
@@ -27,8 +38,15 @@ footer{
 
 .verdura{
     flex: 1 150px;
-    padding: 2px 5px 2px 5px;
+    
 }
+
+.imagenCarta{
+    width: auto;
+    height: 250px;
+}
+
+
 
 .boton_compra{
     background-color: green;
@@ -41,3 +59,17 @@ footer{
 .fotter_iconos{
     padding-right: 15px;
 }
+
+
+.form_comentario{
+    margin: 10px 0px 5px 0px;
+}
+
+.boton_form{
+    margin: 10px 0px 5px 0px;
+}
+
+.tabla{
+    margin: 20px 2px 20px 2px;
+}
+
